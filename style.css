@@ -1,0 +1,9 @@
+body {
+  background: black url("/images/bg.gif");
+  font-size: 24px;
+  font-weight: bold;
+  color: #f00;
+  text-align: center; }
+
+a {
+  color: #fff; }
